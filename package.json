@@ -1,0 +1,17 @@
+{
+  "name": "gilbert-bot",
+  "version": "1.0.0",
+  "description": "GILBERT BOT - ScriptBlox Search + Dev Contact",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "axios": "^1.7.9",
+    "pino": "^9.6.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
